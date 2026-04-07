@@ -100,3 +100,7 @@ Each run saves curves to `outputs/*_results.png`:
 - `outputs/VGG16_Hybrid_MSE_results.png`
 - `outputs/VGG19_Baseline_CE_results.png`
 - `outputs/VGG19_Hybrid_MSE_results.png`
+
+
+## Project Report
+See the full academic-style report in [REPORT.md](REPORT.md).
