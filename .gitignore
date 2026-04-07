@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.dist-info/
+
+# Environments
+.venv/
+venv/
+.env/
+
+# VS Code (often machine-specific)
+.vscode/
+
+# Data (very large; not suitable for GitHub)
+embryo_dataset/
+embryo_dataset_annotations/
+
+# Training artifacts
+checkpoints/
+
+# Outputs
+outputs/*.pth
+
+# OS
+.DS_Store
+Thumbs.db
